@@ -10,6 +10,7 @@ public class CalculatorUtils {
     public static final int MULTIPLY = 2;
     public static final int DIVIDE = 3;
     public static final int NONE = -1;
+    public static final int ASD = -999;
 
     public static double calculate(double x, double y, int operation) {
         double result = 0;
