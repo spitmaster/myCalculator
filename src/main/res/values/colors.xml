@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="color_background_black">#000000</color>
+    <color name="color_btn_normal">#3d383a</color>
+    <color name="color_btn_clicked">#514a4d</color>
+    <color name="color_font_display">#fcd19f</color>
+    <color name="color_font_button">#fff4e5</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_font_ac">#f56037</color>
+    <color name="color_activity_background">#ac99a0</color>
+</resources>
